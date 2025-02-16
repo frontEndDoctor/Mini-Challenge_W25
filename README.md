@@ -6,8 +6,8 @@
 - **Lecturer:** Prof. Rania Khalsi 
 
 ## About the Challenge
-This is a class task assigned to the students of Ethics and Bias in (ARI 515). It was carried out a team by members of the class. 
-The mini-challenge is about bridging the bias in cancer image dataset which will inturn is used to build a machine learning model that will perform optimally across different skin colors. In this challenge the dataset is gotten from open-source, which goes through series of preprocessing to obtain resized greyscale images with contours. The results are then run through a sample machine learning algorithm and adjusted to give a positve accuracy.
+This is a class task assigned to the students of Ethics and Bias in (ARI 515). It was carried out by team members of the class. 
+The mini-challenge is about bridging the bias in cancer image dataset which in turn is used to build a machine learning model that will perform optimally across different skin colors. In this challenge the dataset is gotten from open-source, which goes through series of preprocessing to obtain resized greyscale images with contours. The results are then run through a sample machine learning algorithm and adjusted to give a positive accuracy.
 
 ## Background
 
@@ -15,7 +15,7 @@ Cancer image datasets are crucial for developing and training machine learning m
 
 Another significant source of bias in cancer image datasets is the annotation process, which often relies on human experts to label the images. Variations in expertise, subjective interpretations, and even fatigue can lead to inconsistent or inaccurate annotations. Moreover, the selection of images for inclusion in the dataset may be influenced by the researchers' or clinicians' preferences, leading to a skewed representation of certain types of cancer or stages of the disease. These biases can propagate through the machine learning pipeline, resulting in models that may not be reliable or equitable across different populations or clinical settings. Addressing these biases requires a concerted effort to ensure diversity in dataset collection, standardization of imaging protocols, and rigorous validation processes to create more robust and fair models.
 
-Most cancer dataset have very liuttle or no data for people of color. Therefore, the skin color images may be the best in training a model to test data of different races. This mini-challenge focuses on the solving the bias by using contours of the cancer images to classify the dataset.
+Most cancer dataset have very little or no data for people of color. Therefore, the skin color images may be the best in training a model to test data of different races. This mini-challenge focuses on the solving the bias by using contours of the cancer images to classify the dataset.
 
 ## Methodology
 
@@ -31,9 +31,9 @@ Most cancer dataset have very liuttle or no data for people of color. Therefore,
 
 - **Contours & Binarization:** After preprocessing the dataset to include only grayscale images with lesion, this next step figures out the contours frOm the grayscale images.
   
-- **Algorithm Comparison:** This step is where the finished dataset is run through a sample machine learning algorithm, then the dataset is adjusted as needed to ensure results are positive. The results are then compared between unprocessed, preprocessed, and contour datasets
+- **Algorithm Comparison:** This step is where the finished dataset is run through a sample machine learning algorithm, then the dataset is adjusted as needed to ensure results are positive. The results are then compared between unprocessed, preprocessed, and contour datasets.
   
-- **Github Organization & Presentation:** The results from the previous step are compiled for presentation 
+- **Github Organization & Presentation:** The results from the previous step are compiled for presentation.
 
 ## Discussion (Observations)
 
