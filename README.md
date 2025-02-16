@@ -29,7 +29,7 @@ Most cancer dataset have very little or no data for people of color. Therefore, 
 
 - **Data Processing:** This step involves downloading open source data on cancer images and preprocessing the data. The pre-processing includes grayscaling, making images the same size, getting rid of null values, balancing if need-be, and blurring/cropping images to ONLY include the lesion.
 
-- **Contours & Binarization:** After preprocessing the dataset to include only grayscale images with lesion, this next step figures out the contours frOm the grayscale images.
+- **Contours & Binarization:** After preprocessing the dataset to include only grayscale images with lesion, this next step figures out the contours from the grayscale images.
   
 - **Algorithm Comparison:** This step is where the finished dataset is run through a sample machine learning algorithm, then the dataset is adjusted as needed to ensure results are positive. The results are then compared between unprocessed, preprocessed, and contour datasets.
   
