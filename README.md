@@ -36,7 +36,10 @@ Most cancer dataset have very little or no data for people of color. Therefore, 
   
 - **Github Organization & Presentation:** The results from the previous step are compiled for presentation.
 
-## Discussion (Observations)
+## Discussion Observations)
+From the challenge, it is observed that:
+- There are no available cancer dataset classfifed based on the contours via benign and malignant
+- From the model training, reducing the noise in the data could lead to a better acurracy score
 
 
 ## Conclusion
@@ -46,6 +49,7 @@ Most cancer dataset have very little or no data for people of color. Therefore, 
 
 
 ## Contributors
+The students of Ethics and Bias in  AI(ARI 515) Winter 2025
 
 
 ## External resources
