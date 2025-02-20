@@ -21,8 +21,9 @@ Most cancer dataset have very little or no data for people of color. Therefore, 
 
 
 ### Tools & Technologies
-- Jupyter Notebook
-- 
+- Jupyter Notebook: Coding IDE
+- Python libraries(Pandas, Numpy,Matplotlib,Cv): For data set preprocessing
+- Convolutional Neural Network : Machine Learning algorithm for training the model on the cancer dataset
 
 
 ### Procedure
