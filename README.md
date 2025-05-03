@@ -38,10 +38,10 @@ Most cancer dataset have very little or no data for people of color. Therefore, 
 
 ## Discussion Observations)
 From the challenge, it is observed that:
-- There are no available cancer dataset classfifed based on the contours via benign and malignant
+- There are no available cancer dataset classifed based on the contours via benign and malignant
 - Preprocessing the dataset takes about 70% of the entire work
-- Care must be taken not to miss classify the images
-- From the model training, reducing the noise in the data could lead to a better acurracy score
+- Care must be taken not to misclassify the images
+- From the model training, reducing the noise in the data could lead to a better accuracy score
 
 
 ## Conclusion
